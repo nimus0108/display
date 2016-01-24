@@ -1,0 +1,12 @@
+.main {
+  margin: 0;
+  padding: 0;
+  position: relative; }
+  .main img {
+    margin: 0;
+    padding: 0;
+    height: calc(40vh - 3em);
+    object-fit: cover;
+    overflow: hidden; }
+
+/*# sourceMappingURL=main.css.map */
